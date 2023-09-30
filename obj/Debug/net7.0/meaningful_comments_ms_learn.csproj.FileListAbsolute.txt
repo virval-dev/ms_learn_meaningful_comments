@@ -1,0 +1,14 @@
+/home/valtteri/new-repo/meaningful_comments_ms_learn/bin/Debug/net7.0/meaningful_comments_ms_learn
+/home/valtteri/new-repo/meaningful_comments_ms_learn/bin/Debug/net7.0/meaningful_comments_ms_learn.deps.json
+/home/valtteri/new-repo/meaningful_comments_ms_learn/bin/Debug/net7.0/meaningful_comments_ms_learn.runtimeconfig.json
+/home/valtteri/new-repo/meaningful_comments_ms_learn/bin/Debug/net7.0/meaningful_comments_ms_learn.dll
+/home/valtteri/new-repo/meaningful_comments_ms_learn/bin/Debug/net7.0/meaningful_comments_ms_learn.pdb
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.GeneratedMSBuildEditorConfig.editorconfig
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.AssemblyInfoInputs.cache
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.AssemblyInfo.cs
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.csproj.CoreCompileInputs.cache
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.dll
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/refint/meaningful_comments_ms_learn.dll
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.pdb
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/meaningful_comments_ms_learn.genruntimeconfig.cache
+/home/valtteri/new-repo/meaningful_comments_ms_learn/obj/Debug/net7.0/ref/meaningful_comments_ms_learn.dll
